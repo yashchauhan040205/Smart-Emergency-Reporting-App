@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # emergency_response_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Smart-Emergency-Reporting-App
+>>>>>>> 1b81ac8378ab20ccd1da3fe96fe07c2e6792a1b5
